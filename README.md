@@ -1,7 +1,7 @@
 ## Tkachev Konstantin
-Python developer
-telegram: @Menace134
-mail: menace34@bk.ru
+Python developer  
+telegram: @Menace134  
+mail: menace34@bk.ru  
 
 <!--
 **FireFly134/FireFly134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
