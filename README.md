@@ -1,5 +1,5 @@
 ## Tkachev Konstantin
-###___Python developer___  
+___Python developer___  
 telegram: [@Menace134](https://t.me/Menace134)  
 mail: menace34@bk.ru  
 tel: +7 (961) 659-99-48
