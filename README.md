@@ -15,7 +15,7 @@ tel: +7 (961) 659-99-48
 **Дополнительные навыки:**  
 pandas, NumPy, Pillow, Matplotlib, s3, OpenCV, PyTest
 
-### 🔥 GitHub Streak Stats
+### 🔥 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firefly134&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=FireFly134&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FireFly134?theme=dark&font=Crimson%20Pro&ext=contest)   
