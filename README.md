@@ -8,8 +8,7 @@ tel: +7 (961) 659-99-48
 - Python3
 - FastAPI, Django, AsyncIO
 - PostgreSQL, RabbitMQ, Redis, SQLAlchemy, Gino
-- Javascript: 
-- DevOps: Linux, Docker, Kubernetes, CI\CD
+- Linux, Docker, Kubernetes, CI\CD
 - Разработка телеграм ботов: python-telegram-bot, aiogram
 
 **Дополнительные навыки:**  
