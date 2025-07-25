@@ -5,12 +5,17 @@ mail: menace34@bk.ru
 tel: +7 (961) 659-99-48  
 
 **Ключевые навыки:**
-- Python3
-- FastAPI, Django
-- PostgreSQL, RabbitMQ, Redis
-- SQLAlchemy, Gino
-- Linux, Docker, Kubernetes, CI\CD
-- Разработка телеграм ботов: python-telegram-bot, aiogram
+    • Языки и основы - Python (3.x), AsyncIO
+    • Веб-фреймворки - Django, FastAPI
+    • Работа с базами данных - PostgreSQL, Redis
+    • ORM - SQLAlchemy, Gino
+    • Миграции — Alembic
+    • Асинхронные задачи и очереди - Celery, RabbitMQ
+    • Тестирование и качество кода - PyTest (unit, integration), MyPy, Ruff, Flake8, Black
+    • DevOps и контейнеризация - Linux, Docker, Docker Compose, Kubernetes, CI/CD (GitHub Actions, Make)
+    • Хранилища и файловые сервисы - S3 (MinIO), Yandex Disk API
+    • Анализ и обработка данных - Pandas, NumPy, Matplotlib, Pillow
+    • Интеграции и API - REST API, Telegram API (python-telegram-bot, aiogram), OAuth 2.0, WebSockets, платежные системы (Stripe, PayPal, Юкасса)
 
 **Дополнительные навыки:**  
 PyTest, AsyncIO, Alembic, s3, Pandas, NumPy, Pillow, Matplotlib, OpenCV, MyPy, Black, Flake8, JS, JQuery
